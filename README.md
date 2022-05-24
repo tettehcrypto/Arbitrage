@@ -1,5 +1,9 @@
 # Arbitrage Uniswap-Sushiswap
 
+## Contributors
+ - Myself
+ - Amaechi Okolobi
+
 ## Technology Stack & Tools
   Solidity (Writing Smart Contract)
   Javascript (React & Testing)
